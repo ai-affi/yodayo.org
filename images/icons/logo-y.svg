@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000.13 1286.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fa0a8c;
+      }
+
+      .cls-2 {
+        fill: #0ab9fa;
+      }
+    </style>
+  </defs>
+  <g id="Blue_Shadow_-_0AB9FA" data-name="Blue Shadow - 0AB9FA">
+    <rect class="cls-2" x="-193.96" y="399.47" width="702.92" height="187.25" transform="translate(650.59 335.6) rotate(90)"/>
+    <rect class="cls-2" x="411.14" y="995.01" width="517.67" height="187.25" transform="translate(1715.82 1823.62) rotate(156.71)"/>
+    <rect class="cls-2" x="157.5" y="723.08" width="511.34" height="187.25" transform="translate(826.33 1633.4) rotate(180)"/>
+    <rect class="cls-2" x="484.47" y="470.04" width="844.08" height="187.25" transform="translate(1470.18 -342.83) rotate(90)"/>
+    <circle class="cls-2" cx="157.5" cy="141.63" r="93.63"/>
+    <circle class="cls-2" cx="906.5" cy="141.63" r="93.63"/>
+    <circle class="cls-2" cx="906.5" cy="984.27" r="93.63"/>
+    <circle class="cls-2" cx="432.61" cy="1192.65" r="93.63"/>
+    <circle class="cls-2" cx="157.5" cy="816.7" r="93.63"/>
+    <circle class="cls-2" cx="675.56" cy="816.7" r="93.63"/>
+  </g>
+  <g id="Pink_Text_-_FA0A8C" data-name="Pink Text - FA0A8C">
+    <rect class="cls-1" x="-257.83" y="351.46" width="702.92" height="187.25" transform="translate(538.71 351.46) rotate(90)"/>
+    <rect class="cls-1" x="347.27" y="947" width="517.67" height="187.25" transform="translate(1574.31 1756.78) rotate(156.71)"/>
+    <rect class="cls-1" x="93.63" y="675.07" width="511.34" height="187.25" transform="translate(698.6 1537.39) rotate(180)"/>
+    <rect class="cls-1" x="420.6" y="422.04" width="844.08" height="187.25" transform="translate(1358.3 -326.97) rotate(90)"/>
+    <circle class="cls-1" cx="93.63" cy="93.63" r="93.63"/>
+    <circle class="cls-1" cx="842.64" cy="93.63" r="93.63"/>
+    <circle class="cls-1" cx="842.64" cy="936.26" r="93.63"/>
+    <circle class="cls-1" cx="368.74" cy="1144.64" r="93.63"/>
+    <circle class="cls-1" cx="93.63" cy="768.7" r="93.63"/>
+    <circle class="cls-1" cx="611.69" cy="768.7" r="93.63"/>
+  </g>
+</svg>
